@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room Data Base</string>
+    <string name="Submit">Submit</string>
+    <string name="EnterYourAddress">Enter Your Address</string>
+    <string name="EnterYourName">Enter Your Name</string>
+    <string name="EnterYourAge">Enter Your Age</string>
+    <string name="Add">Add</string>
+</resources>
